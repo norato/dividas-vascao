@@ -2,7 +2,7 @@
 
 
 
-O Vascão tá sofrendo com dívidas[https://ge.globo.com/futebol/times/vasco/noticia/de-dorival-junior-a-viola-veja-quanto-o-vasco-deve-a-jogadores-e-tecnicos-em-execucao-milionaria.ghtml]. Contratou e não pagou 🥺
+O Vascão tá sofrendo com [dívidas trabalhistas](https://ge.globo.com/futebol/times/vasco/noticia/de-dorival-junior-a-viola-veja-quanto-o-vasco-deve-a-jogadores-e-tecnicos-em-execucao-milionaria.ghtml). Contratou e não pagou 🥺
 
 Então vamos ajudar o Vascão a calcular essa dívida !! No arquivo `index.html` Você já tem a tabela extraída do link acima e no arquivo `dividas.js` você já possui os dados extraídos da tabela. Basta carregar o arquivo `index.html` no navegador que visualizará-las no console.
 
