@@ -1,0 +1,392 @@
+[
+  {
+    "nome": "Carlos César",
+    "posicao-funcao": "lateral-direito",
+    "tempo-de-clube": "2014",
+    "valor-a-receber": "R$ 757.700,95"
+  },
+  {
+    "nome": "Gaúcho",
+    "posicao-funcao": "treinador",
+    "tempo-de-clube": "2009 a 2013",
+    "valor-a-receber": "R$ 795.928,31"
+  },
+  {
+    "nome": "Rodolfo",
+    "posicao-funcao": "zagueiro",
+    "tempo-de-clube": "2012 a 2013",
+    "valor-a-receber": "R$ 2.503.000"
+  },
+  {
+    "nome": "Ygor",
+    "posicao-funcao": "volante",
+    "tempo-de-clube": "2003 a 2007",
+    "valor-a-receber": "R$ 1.813.971,10"
+  },
+  {
+    "nome": "Viola",
+    "posicao-funcao": "atacante",
+    "tempo-de-clube": "1999 a 2001",
+    "valor-a-receber": "R$ 2.328.177,97"
+  },
+  {
+    "nome": "Johny",
+    "posicao-funcao": "lateral-esquerdo",
+    "tempo-de-clube": "2008",
+    "valor-a-receber": "R$ 201.826,22"
+  },
+  {
+    "nome": "Dorival Júnior",
+    "posicao-funcao": "treinador",
+    "tempo-de-clube": "2009 e 2013",
+    "valor-a-receber": "R$ 8.524.996"
+  },
+  {
+    "nome": "Edmílson",
+    "posicao-funcao": "atacante",
+    "tempo-de-clube": "2013 a 2014",
+    "valor-a-receber": "R$ 585.937,50"
+  },
+  {
+    "nome": "Fabrício",
+    "posicao-funcao": "volante",
+    "tempo-de-clube": "2014",
+    "valor-a-receber": "R$ 303.465,68"
+  },
+  {
+    "nome": "Allan Dellon",
+    "posicao-funcao": "meia",
+    "tempo-de-clube": "2005",
+    "valor-a-receber": "R$ 271.801,95"
+  },
+  {
+    "nome": "Matheus Índio",
+    "posicao-funcao": "meia",
+    "tempo-de-clube": "2008 a 2013 e 2015 a 2016",
+    "valor-a-receber": "R$ 1.105.053,08"
+  },
+  {
+    "nome": "Diego Renan",
+    "posicao-funcao": "lateral-esquerdo",
+    "tempo-de-clube": "2014",
+    "valor-a-receber": "R$ 460.444,27"
+  },
+  {
+    "nome": "Diego Rosa",
+    "posicao-funcao": "volante",
+    "tempo-de-clube": "2010 a 2012",
+    "valor-a-receber": "R$ 323.975,48"
+  },
+  {
+    "nome": "Guilherme Biteco",
+    "posicao-funcao": "meia",
+    "tempo-de-clube": "2014",
+    "valor-a-receber": "R$ 246.556,40"
+  },
+  {
+    "nome": "Rafael Vaz",
+    "posicao-funcao": "zagueiro",
+    "tempo-de-clube": "2013 a 2016",
+    "valor-a-receber": "R$ 327.447,78"
+  },
+  {
+    "nome": "Alessandro",
+    "posicao-funcao": "goleiro",
+    "tempo-de-clube": "2010 a 2013",
+    "valor-a-receber": "R$ 281.825,26"
+  },
+  {
+    "nome": "Fillipe Soutto",
+    "posicao-funcao": "volante",
+    "tempo-de-clube": "2013",
+    "valor-a-receber": "R$ 686.510,43"
+  },
+  {
+    "nome": "Wagner",
+    "posicao-funcao": "zagueiro",
+    "tempo-de-clube": "2001 e 2002",
+    "valor-a-receber": "R$ 187.053,99"
+  },
+  {
+    "nome": "Rafael Silva",
+    "posicao-funcao": "atacante",
+    "tempo-de-clube": "2014 e 2015",
+    "valor-a-receber": "R$ 234.002,06"
+  },
+  {
+    "nome": "Jean Patrick",
+    "posicao-funcao": "volante",
+    "tempo-de-clube": "2015",
+    "valor-a-receber": "R$ 93.590,51"
+  },
+  {
+    "nome": "Eduardo Costa",
+    "posicao-funcao": "volante",
+    "tempo-de-clube": "2011 a 2012",
+    "valor-a-receber": "R$ 2.179.818,50"
+  },
+  {
+    "nome": "Ricardo Gomes",
+    "posicao-funcao": "técnico e diretor",
+    "tempo-de-clube": "2011 e 2012 a 2014",
+    "valor-a-receber": "R$ 969.363,03"
+  },
+  {
+    "nome": "Adílson Batista",
+    "posicao-funcao": "técnico",
+    "tempo-de-clube": "2013 a 2014",
+    "valor-a-receber": "R$ 1.348.531,04"
+  },
+  {
+    "nome": "Michel Alves",
+    "posicao-funcao": "goleiro",
+    "tempo-de-clube": "2013",
+    "valor-a-receber": "R$ 1.383.778,39"
+  },
+  {
+    "nome": "Jorginho",
+    "posicao-funcao": "técnico",
+    "tempo-de-clube": "2015 a 2016 e 2018",
+    "valor-a-receber": "R$ 2.481.856,71"
+  },
+  {
+    "nome": "Valdir Bigode",
+    "posicao-funcao": "técnico",
+    "tempo-de-clube": "2015 a 2018",
+    "valor-a-receber": "R$ 1.815.860,33"
+  },
+  {
+    "nome": "Anderson Salles",
+    "posicao-funcao": "zagueiro",
+    "tempo-de-clube": "2015",
+    "valor-a-receber": "R$ 748.203,78"
+  },
+  {
+    "nome": "Francismar",
+    "posicao-funcao": "meia",
+    "tempo-de-clube": "2013",
+    "valor-a-receber": "R$ 230.542,12"
+  },
+  {
+    "nome": "Reginaldo",
+    "posicao-funcao": "atacante",
+    "tempo-de-clube": "2013 e 2014",
+    "valor-a-receber": "R$ 954.416,90"
+  },
+  {
+    "nome": "Cristóvão Borges",
+    "posicao-funcao": "treinador",
+    "tempo-de-clube": "2011 a 2012 e 2017",
+    "valor-a-receber": "R$ 1.081.752,67"
+  },
+  {
+    "nome": "Alexandre Grasseli",
+    "posicao-funcao": "treinador",
+    "tempo-de-clube": "2018 e 2019 a 2020",
+    "valor-a-receber": "R$ 63.261,93"
+  },
+  {
+    "nome": "Jonathan",
+    "posicao-funcao": "atacante",
+    "tempo-de-clube": "2009 a 2013",
+    "valor-a-receber": "R$ 61.237,05"
+  },
+  {
+    "nome": "Zinho",
+    "posicao-funcao": "auxiliar",
+    "tempo-de-clube": "2015 a 2016",
+    "valor-a-receber": "R$ 175.076,66"
+  },
+  {
+    "nome": "Tiago",
+    "posicao-funcao": "goleiro",
+    "tempo-de-clube": "2008 a 2010",
+    "valor-a-receber": "R$ 1.784.604,53"
+  },
+  {
+    "nome": "Bruno Silva",
+    "posicao-funcao": "volante",
+    "tempo-de-clube": "2018 a 2019",
+    "valor-a-receber": "R$ 141.150,00"
+  },
+  {
+    "nome": "Bernardo",
+    "posicao-funcao": "meia",
+    "tempo-de-clube": "2011 a 2012, 2013 a 2014 e 2015",
+    "valor-a-receber": "R$ 638.285,19"
+  },
+  {
+    "nome": "Thiago Galhardo",
+    "posicao-funcao": "meia-atacante",
+    "tempo-de-clube": "2018 a 2019",
+    "valor-a-receber": "R$ 844.150,00"
+  },
+  {
+    "nome": "Jomar",
+    "posicao-funcao": "zagueiro",
+    "tempo-de-clube": "2011 a 2017",
+    "valor-a-receber": "R$ 193.250,00"
+  },
+  {
+    "nome": "Andrés Ríos",
+    "posicao-funcao": "atacante",
+    "tempo-de-clube": "2017 a 2018",
+    "valor-a-receber": "R$ 2.098.082,15"
+  },
+  {
+    "nome": "Wellington",
+    "posicao-funcao": "volante",
+    "tempo-de-clube": "2017 a 2018",
+    "valor-a-receber": "R$ 650.000"
+  },
+  {
+    "nome": "Marlon",
+    "posicao-funcao": "lateral-esquerdo",
+    "tempo-de-clube": "2014",
+    "valor-a-receber": "R$ 1.620.762,61"
+  },
+  {
+    "nome": "Manga Escobar",
+    "posicao-funcao": "atacante",
+    "tempo-de-clube": "2017",
+    "valor-a-receber": "R$ 954.254,19"
+  },
+  {
+    "nome": "Christianno",
+    "posicao-funcao": "lateral-esquerdo",
+    "tempo-de-clube": "2015",
+    "valor-a-receber": "R$ 259.000,00"
+  },
+  {
+    "nome": "Alberto Valentim",
+    "posicao-funcao": "treinador",
+    "tempo-de-clube": "2018 e 2019",
+    "valor-a-receber": "R$ 1.392.443,42"
+  },
+  {
+    "nome": "Eder Luis",
+    "posicao-funcao": "atacante",
+    "tempo-de-clube": "2010 a 2013 e 2015 a 2017",
+    "valor-a-receber": "R$ 3.827.750,00"
+  },
+  {
+    "nome": "Aranda",
+    "posicao-funcao": "volante",
+    "tempo-de-clube": "2014",
+    "valor-a-receber": "R$ 1.433.354,58"
+  },
+  {
+    "nome": "Julio Cesar Moraes",
+    "posicao-funcao": "lateral-esquerdo",
+    "tempo-de-clube": "2015 a 2016",
+    "valor-a-receber": "R$ 1.432.369,19"
+  },
+  {
+    "nome": "Muriqui",
+    "posicao-funcao": "atacante",
+    "tempo-de-clube": "2004 a 2005 e 2017",
+    "valor-a-receber": "R$ 651.250,00"
+  },
+  {
+    "nome": "Diogo Silva",
+    "posicao-funcao": "goleiro",
+    "tempo-de-clube": "2013 a 2014",
+    "valor-a-receber": "R$ 656.300,00"
+  },
+  {
+    "nome": "Bruno Paulista",
+    "posicao-funcao": "volante",
+    "tempo-de-clube": "2017 a 2018",
+    "valor-a-receber": "R$ 884.942,88"
+  },
+  {
+    "nome": "Andrezinho",
+    "posicao-funcao": "meia",
+    "tempo-de-clube": "2015 a 2018",
+    "valor-a-receber": "R$ 1.635,323,18"
+  },
+  {
+    "nome": "Fabrício",
+    "posicao-funcao": "lateral-esquerdo",
+    "tempo-de-clube": "2018",
+    "valor-a-receber": "R$ 1.223.281,82"
+  },
+  {
+    "nome": "Nenê",
+    "posicao-funcao": "meia",
+    "tempo-de-clube": "2015 a 2018",
+    "valor-a-receber": "R$ 1.104.928,90"
+  },
+  {
+    "nome": "Jean",
+    "posicao-funcao": "volante",
+    "tempo-de-clube": "2017",
+    "valor-a-receber": "R$ 910.606,61"
+  },
+  {
+    "nome": "Hugo Borges",
+    "posicao-funcao": "atacante",
+    "tempo-de-clube": "2018 a 2018",
+    "valor-a-receber": "R$ 90.000,00"
+  },
+  {
+    "nome": "Desabato",
+    "posicao-funcao": "volante",
+    "tempo-de-clube": "2018",
+    "valor-a-receber": "R$ 499.750,00"
+  },
+  {
+    "nome": "Richard",
+    "posicao-funcao": "volante",
+    "tempo-de-clube": "2019",
+    "valor-a-receber": "R$ 75.000,00"
+  },
+  {
+    "nome": "Sandro Silva",
+    "posicao-funcao": "volante",
+    "tempo-de-clube": "2013 e 2015",
+    "valor-a-receber": "R$ 778.493,39"
+  },
+  {
+    "nome": "Mateus",
+    "posicao-funcao": "volante",
+    "tempo-de-clube": "2006 a 2009",
+    "valor-a-receber": "R$ 452.852,54"
+  },
+  {
+    "nome": "Lorran",
+    "posicao-funcao": "lateral-esquerdo",
+    "tempo-de-clube": "2011 a 2016",
+    "valor-a-receber": "R$ 1.612.803,80"
+  },
+  {
+    "nome": "Paulão",
+    "posicao-funcao": "zagueiro",
+    "tempo-de-clube": "2017 e 2018",
+    "valor-a-receber": "R$ 3.135.000,00"
+  },
+  {
+    "nome": "Léo Moura",
+    "posicao-funcao": "lateral-direito",
+    "tempo-de-clube": "2002",
+    "valor-a-receber": "R$ 52.540,17"
+  },
+  {
+    "nome": "Márcio",
+    "posicao-funcao": "goleiro",
+    "tempo-de-clube": "1991 a 2005",
+    "valor-a-receber": "R$ 4.942,42"
+  },
+  {
+    "nome": "Edmundo",
+    "posicao-funcao": "atacante",
+    "tempo-de-clube": "92, 96/97,99/00, 03/04 e 2008",
+    "valor-a-receber": "R$ 361.961,34"
+  },
+  {
+    "nome": "Márcio Careca",
+    "posicao-funcao": "lateral-esquerdo",
+    "tempo-de-clube": "2010 e 2011",
+    "valor-a-receber": "R$ 22.446,54"
+  }
+]
