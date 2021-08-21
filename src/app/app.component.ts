@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 
-import { DividaService } from './core/divida.service';
+import { DividaStateService } from './core/divida-state.service';
 
 @Component({
   selector: 'app-root',
@@ -9,9 +9,9 @@ import { DividaService } from './core/divida.service';
 })
 export class AppComponent {
   title = 'dividas-vascao';
-  divida$ = this.dividaService.getDividas();
+  divida$ = this.dividaStateService.dividas$;
 
   constructor(
-    private dividaService: DividaService
+    private dividaStateService: DividaStateService
   ) { }
 }
