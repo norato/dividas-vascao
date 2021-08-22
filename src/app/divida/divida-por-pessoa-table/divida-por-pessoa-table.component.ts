@@ -1,5 +1,5 @@
-import { Component } from '@angular/core';
-import { DividaStateService } from 'src/app/core/divida-state.service';
+import { Component, Input } from '@angular/core';
+import { Divida } from 'src/app/core/divida.interface';
 
 @Component({
   selector: 'app-divida-por-pessoa-table',
@@ -7,14 +7,12 @@ import { DividaStateService } from 'src/app/core/divida-state.service';
   styleUrls: ['./divida-por-pessoa-table.component.scss'],
 })
 export class DividaPorPessoaTableComponent {
+  @Input() divida: Divida[] = [];
+
   displayedColumns: string[] = [
     'nome',
     'posicaoFuncao',
     'tempoDeClube',
     'valorAReceber',
   ];
-
-  divida$ = this.dividaStateService.dividas$;
-
-  constructor(private dividaStateService: DividaStateService) {}
 }

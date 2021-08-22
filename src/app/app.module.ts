@@ -7,9 +7,10 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { DividaPorPessoaTableComponent } from './divida/divida-por-pessoa-table/divida-por-pessoa-table.component';
+import { DividaComponent } from './divida/divida.component';
 
 @NgModule({
-  declarations: [AppComponent, DividaPorPessoaTableComponent],
+  declarations: [AppComponent, DividaPorPessoaTableComponent, DividaComponent],
   imports: [BrowserModule, AppRoutingModule, HttpClientModule, BrowserAnimationsModule, MatTableModule],
   providers: [],
   bootstrap: [AppComponent],
